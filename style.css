@@ -1,0 +1,26 @@
+h2 {
+text-align: right;
+	margin: 15px;
+}
+#button {
+  border-radius: 15px;
+  background: white;
+  padding: 3px;
+  width: 100px;
+  height: 25px;
+}
+#advanced {
+  border-radius: 15px;
+  background: #4c8bf5;
+  padding: 3px;
+  width: 150px;
+  height: 25px;
+  color: white;
+}
+#lucky {
+  border-radius: 15px;
+  background: white;
+  padding: 3px;
+  width: 150px;
+  height: 25px;
+}
